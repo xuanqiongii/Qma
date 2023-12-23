@@ -46,23 +46,23 @@ python server.py
 
 `dir /d /a C:`
 
-![1](.\image\1.png)
+![1](/image/1.png)
 
 (例：打开记事本)
 
 `notepad`
 
-![1](.\image\2.png)
+![1](/image/2.png)
 
 (例：ping百度)
 
-![1](.\image\3.png)
+![1](/image/3.png)
 
 关闭cmd
 
 `cmdoff`
 
-![1](.\image\4.png)
+![1](/image/4.png)
 
 
 
@@ -76,20 +76,20 @@ python server.py
 
 `tron`
 
-![1](.\image\5.png)
+![1](/image/5.png)
 
 查看E盘文件，命令`E://`
 
-![1](.\image\6.png)
+![1](/image/6.png)
 
 关闭功能
 
 `troff`
 
-![1](.\image\7.png)
+![1](/image/7.png)
 
 #### 3.主动关闭连接
 
 命令`exit`
 
-![1](.\image\8.png)
+![1](/image/8.png)
